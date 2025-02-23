@@ -1,16 +1,19 @@
-## Hi there 👋
+## Hi there 👋 I'm Vinay Jespal
 
-<!--
-**vinayjespal/vinayjespal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **BCA Graduate** | 📊 **Aspiring Data Analyst** | 📚 **Lifelong Learner**
 
-Here are some ideas to get you started:
+Passionate about turning data into actionable insights and creating impactful visualizations. Exploring the intersection of data and creativity one project at a time!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+- 🔎 I'm currently learning **Data Analytics** using Python, Power BI, Excel, and SQL.
+- 📊 I love working on projects that involve **data cleaning, visualization, and analysis**.
+- 🌟 I believe in continuous learning and enjoy sharing my journey on LinkedIn.
+- 🎯 My goal is to contribute to **impactful data-driven projects**.
+
+## Skills
+- **Programming:** Python (pandas, numpy, matplotlib, seaborn), SQL
+- **Tools:** Power BI, Tableau, Excel
+- **Platforms:** Jupyter Notebook, Google Colab, Microsoft Teams
+
+📫 **Connect with me on:**  
+LinkedIn: https://www.linkedin.com/in/vinay-jespal/ | GitHub: https://github.com/vinayjespal 
